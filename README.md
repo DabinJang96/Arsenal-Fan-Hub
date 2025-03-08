@@ -42,12 +42,6 @@ Here's a high-level overview of how the components fit together:
 6. **IaC** (Terraform, AWS) – Automates provisioning of servers/containers, networking, and databases in the cloud.
 7. **Observability** – Logging, monitoring, and alerts (e.g., CloudWatch, Prometheus/Grafana) for application health.
 
-A simplified diagram might look like this:
-
-    User -> [Frontend] -> [Backend/API] -> [Database] |-> [CI/CD Pipeline] -> [Security Scans] |-> [IaC Provisioning]
-    -> [Cloud Infrastructure] |-> [Monitoring/Logging] -> [Alerts]
-
-
 ---
 
 ## Features
