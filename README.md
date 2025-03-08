@@ -9,12 +9,8 @@ A web application that displays Arsenal’s upcoming fixtures, recent results, p
 2. [Architecture](#architecture)  
 3. [Features](#features)  
 4. [Tech Stack](#tech-stack)  
-5. [Local Setup](#local-setup)  
-6. [CI/CD Pipeline](#cicd-pipeline)  
-7. [Security & Vulnerability Scanning](#security--vulnerability-scanning)  
-8. [Infrastructure as Code (IaC)](#infrastructure-as-code-iac)  
-9. [Observability & Monitoring](#observability--monitoring)  
-10. [Roadmap / Future Enhancements](#roadmap--future-enhancements)
+5. [Roadmap / Future Enhancements](#roadmap--future-enhancements)
+6. [Contact](#contact)
 
 ---
 
@@ -69,16 +65,11 @@ Here's a high-level overview of how the components fit together:
 
 ---
 
-## Local Setup
-
-Below are instructions for running the app locally using Docker Compose. You can also run it without Docker—just ensure you have the correct dependencies installed (Node.js or Python, plus a local database).
-
-## CI/CD Pipeline
-
-## Security & Vulnerability Scanning
-
-## Infrastructure as Code (IaC)
-
-## Observability & Monitoring
-
 ## Roadmap / Future Enhancements
+
+---
+
+## Contact
+
+- **Author**: https://www.linkedin.com/in/dabin-david-jang-70750a166/
+- **Email**: david12jang@gmail.com
